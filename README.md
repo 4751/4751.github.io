@@ -1,6 +1,4 @@
-# cveinnt.github.io
-
-A minimalist redirection page I wrote for myself.
+# Readme
 
 This website is written with minimal HTML/CSS/JavaScript in the style of [linux manual pages](https://en.wikipedia.org/wiki/Man_page).
 
